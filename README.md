@@ -1,3 +1,4 @@
+*View this in other languages:[中文](README_cn.md)*
 # BlockchainNetwork-CompositeJourney
 
 ## Build Your First Network (BYFN)
